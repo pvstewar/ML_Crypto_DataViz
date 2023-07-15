@@ -1,2 +1,4 @@
 # ML_Crypto_DataViz
-Using Data Visualization to Examine ML and Graph Cryptocurrency Illicit Transaction Datasets
+## Using Data Visualization to Examine ML and Graph Cryptocurrency Illicit Transaction Datasets
+
+The purpose of this project was to demonstrate a variety of python data visualization techniques. With knowledge of the key role of cryptocurrency in monetizing cybersecurity vulnerability exploitation, I was interested in understanding the methods used in tracking illicit transactions in some of the most common crypto currency types. After much research I was able to find a couple quality machine learning and advanced analytics studies that actually make their training data publicly available and I was able to use visualize and gain a better understanding of the data and the patterns that the advanced analytical systems are uncovering within it. These methods can be of great use to help counter the perception that machine learning decisions can't be understood by allowing anyone to visualize the patterns and draw conclusions about how decisions are made.
